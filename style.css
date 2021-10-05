@@ -1,1 +1,25 @@
 /* nothing here */
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@400;500&family=Work+Sans&display=swap');
+
+body {
+    border-right: 420px solid #93d6de;
+    border-left: 420px solid #93d6de;
+    border-top: 100px solid #93d6de;
+    border-bottom: 100px solid #93d6de;
+    padding: 50px;
+    padding-bottom: 500px;
+}
+
+h1 {
+    font-family: 'Bitter', serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+p {
+    font-family: 'Work Sans', sans-serif;
+    line-height: 25px;
+    margin-bottom: 30px;
+}
